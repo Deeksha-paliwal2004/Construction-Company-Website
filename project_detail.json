@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Sunrise Mall Complex",
+    "type": "Commercial",
+    "location": "Bhopal, Madhya Pradesh",
+    "completed": "April 2024",
+    "description": "A multi-brand shopping complex featuring 80+ retail outlets and a food court.",
+    "image": "images/sunrise-mall.jpg"
+  },
+  {
+    "title": "Corporate Tech Park",
+    "type": "Commercial",
+    "location": "Noida, Uttar Pradesh",
+    "completed": "November 2023",
+    "description": "A 12-floor office tower with modern amenities and LEED certification.",
+    "image": "images/tech-park.jpg"
+  },
+  {
+    "title": "Metro Business Center",
+    "type": "Commercial",
+    "location": "Hyderabad, Telangana",
+    "completed": "January 2024",
+    "description": "A business park designed for startups and SMEs with co-working spaces.",
+    "image": "images/business-center.jpg"
+  },
+  {
+    "title": "City Square Tower",
+    "type": "Commercial",
+    "location": "Ahmedabad, Gujarat",
+    "completed": "August 2023",
+    "description": "A commercial skyscraper with retail, office, and restaurant spaces.",
+    "image": "images/city-square.jpg"
+  },
+  {
+    "title": "Industrial Shed Project",
+    "type": "Commercial",
+    "location": "Pune, Maharashtra",
+    "completed": "March 2022",
+    "description": "A heavy-duty industrial unit for manufacturing and logistics.",
+    "image": "images/industrial-shed.jpg"
+  },
+  {
+    "title": "Modern Villa Estate",
+    "type": "Residential",
+    "location": "Jaipur, Rajasthan",
+    "completed": "March 2024",
+    "description": "A luxurious 4BHK villa community with gardens and private pools.",
+    "image": "images/villa-estate.jpg"
+  },
+  {
+    "title": "Hilltop Cottages",
+    "type": "Residential",
+    "location": "Shimla, Himachal Pradesh",
+    "completed": "July 2023",
+    "description": "Wooden vacation cottages with scenic valley views and fireplaces.",
+    "image": "images/hilltop-cottages.jpg"
+  },
+  {
+    "title": "Duplex Housing Project",
+    "type": "Residential",
+    "location": "Indore, Madhya Pradesh",
+    "completed": "December 2023",
+    "description": "A modern duplex community with parking, parks, and clubhouses.",
+    "image": "images/duplex-indore.jpg"
+  },
+  {
+    "title": "Green Living Apartments",
+    "type": "Residential",
+    "location": "Bangalore, Karnataka",
+    "completed": "October 2023",
+    "description": "Eco-friendly flats with solar panels, recycling units, and playgrounds.",
+    "image": "images/green-apartments.jpg"
+  },
+  {
+    "title": "Riverside Residency",
+    "type": "Residential",
+    "location": "Kochi, Kerala",
+    "completed": "May 2022",
+    "description": "Waterfront apartments with 24x7 security and recreation zones.",
+    "image": "images/riverside-residency.jpg"
+  }
+]
