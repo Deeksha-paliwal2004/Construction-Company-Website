@@ -2,12 +2,27 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+ <div align="center">
+
+  <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Deeksha-paliwal2004/Construction-Company-Website.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/network/members">
+    <img src="https://img.shields.io/github/forks/Deeksha-paliwal2004/Construction-Company-Website.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/stargazers">
+    <img src="https://img.shields.io/github/stars/Deeksha-paliwal2004/Construction-Company-Website.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/issues">
+    <img src="https://img.shields.io/github/issues/Deeksha-paliwal2004/Construction-Company-Website.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/blob/main/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/Deeksha-paliwal2004/Construction-Company-Website.svg?style=for-the-badge" />
+
+
+</div>
+
+<!--[![LinkedIn][linkedin-shield]][linkedin-url]-->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -270,9 +285,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Team - [@construction_team](https://twitter.com/construction_team) - team@constructioncompany.com
 
-Project Link: [https://github.com/your-username/construction-company](https://github.com/your-username/construction-company)
+Project Link: [https://github.com/your-username/construction-company](https://github.com/Deeksha-paliwal2004/construction-company)
 
-Live Demo: [https://your-username.github.io/construction-company](https://your-username.github.io/construction-company)
+Live Demo: [https://your-username.github.io/construction-company](https://Deeksha-paliwal2004.github.io/construction-company)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
