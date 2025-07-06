@@ -119,7 +119,7 @@ This section lists the major frameworks and technologies used to bootstrap this 
 * [![HTML5][HTML5.com]][HTML5-url]
 * [![CSS3][CSS3.com]][CSS3-url]
 * [![JavaScript][JavaScript.com]][JavaScript-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+<!--* [![Bootstrap][Bootstrap.com]][Bootstrap-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
