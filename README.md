@@ -265,7 +265,7 @@ Don't forget to give the project a star! Thanks again!
 - [Deeksha-paliwal](https://github.com/Deeksha-paliwal2004)
 - [Ariya](https://github.com/ariya10)
 - [Sahithi](https://github.com/sahithi3005)
-- [Member 4](https://github.com/member4)
+- [Mahesh-More](https://github.com/Mahesh-more1)
 - [Member 5](https://github.com/member5)
 - [Member 6](https://github.com/member6)
 - [Member 7](https://github.com/member7)
