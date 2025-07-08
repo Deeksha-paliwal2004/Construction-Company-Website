@@ -257,17 +257,17 @@ Don't forget to give the project a star! Thanks again!
 
 ### Team Members
 
-<a href="https://github.com/your-username/construction-company/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your-username/construction-company" alt="contrib.rocks image" />
+<a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Deeksha-paliwal2004/Construction-Company-Website" alt="contrib.rocks image" />
 </a>
 
 **Team Contributors :**
-- [Deeksha-paliwal](https://github.com/Deeksha-paliwal2004)
-- [Ariya](https://github.com/ariya10)
-- [Sahithi](https://github.com/sahithi3005)
+- [Deeksha paliwal](https://github.com/Deeksha-paliwal2004)
+- [Ariya Sri](https://github.com/ariya10)
+- [Gunapu Sahithi](https://github.com/sahithi3005)
 - [Mahesh-More](https://github.com/Mahesh-more1)
-- [Member 5](https://github.com/member5)
-- [Member 6](https://github.com/member6)
+- [Sanskruti Kumbhare](https://github.com/member5)
+- [Uddanti Bhavana](https://github.com/member6)
 - [Member 7](https://github.com/member7)
 - [Member 8](https://github.com/member8)
 
