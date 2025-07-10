@@ -266,10 +266,8 @@ Don't forget to give the project a star! Thanks again!
 - [Ariya Sri](https://github.com/ariya10)
 - [Gunapu Sahithi](https://github.com/sahithi3005)
 - [Mahesh-More](https://github.com/Mahesh-more1)
-- [Sanskruti Kumbhare](https://github.com/member5)
-- [Uddanti Bhavana](https://github.com/member6)
-- [Member 7](https://github.com/member7)
-- [Member 8](https://github.com/member8)
+- [Sanskruti Kumbhare](https://github.com/Sanskruti100)
+- [Uddanti Bhavana](https://github.com/UddantiBhavana)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
