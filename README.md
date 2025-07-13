@@ -64,7 +64,7 @@
 [linkedin-url]: https://linkedin.com/in/your-linkedin
 [product-screenshot]: images/screenshot.png
 
-
+---
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -94,6 +94,7 @@
   </ol>
 </details>
 
+---
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -103,6 +104,8 @@ BuildRight Construction Company Website is a comprehensive, responsive web appli
 
 The website demonstrates modern web development practices and serves as a complete digital presence for a construction business, featuring project galleries, service listings, and interactive contact forms.
 
+---
+
 Here's why this project stands out:
 * **Professional Design**: Clean, modern interface that builds trust with potential clients
 * **Responsive Layout**: Works seamlessly on desktop, tablet, and mobile devices
@@ -111,6 +114,8 @@ Here's why this project stands out:
 * **Contact Integration**: Easy-to-use contact forms for customer inquiries
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
 
 ### Built With
 
@@ -123,10 +128,14 @@ This section lists the major frameworks and technologies used to bootstrap this 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
 This is a static website that requires no special software to run. Follow these simple steps to get a local copy up and running.
+
+---
 
 ### Prerequisites
 
@@ -135,7 +144,7 @@ You only need a modern web browser to view this website:
 * Mozilla Firefox
 * Microsoft Edge
 * Safari
-
+---
 ### 🔧 Installation
 
 1. Clone the repository
@@ -155,37 +164,10 @@ You only need a modern web browser to view this website:
 Or visit the live version:  
 👉 https://Deeksha-paliwal2004.github.io/Construction-Company-Website
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p
+                                                         
+---
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-The website is designed to be intuitive and user-friendly. Here's how to navigate through different sections:
-
-**Home Page**: Features a hero section with company introduction and call-to-action buttons
-**About Section**: Displays company information and experience details
-**Services Page**: Lists all construction-related services offered
-**Projects Gallery**: Showcases completed commercial and residential projects with detailed information
-**Contact Form**: Allows visitors to send inquiries directly through the website
-
-### Navigation Structure
-```
-├── Home (index.html)
-├── About Us (index.html#about)
-├── Services (indexes/service.html)
-├── Projects (indexes/projects.html)
-└── Contact (index.html#contact)
-```
-
-_For more examples and detailed documentation, please refer to the [Documentation](https://github.com/your-username/construction-company/wiki)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FEATURES -->
-## Features
-
-- **Responsive Design**: Mobile-first approach ensuring compatibility across all devices
-- **Modern UI/UX**: Clean, professional design with smooth animations
 <!-- 🚀 USAGE EXAMPLES -->
 ## 🚀 How to Use This Website
 
@@ -236,8 +218,11 @@ This construction company website is designed with **ease of navigation**, **vis
 Feel free to [edit the README](https://github.com/Deeksha-paliwal2004/Construction-Company-Website/edit/main/README.md) or personalize the content for your brand/client.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
 <!-- ✨ FEATURES -->
-## ✨ Features
+### Features
 
 | 🚀 Feature                         | 💡 Description                                                                 |
 |----------------------------------|------------------------------------------------------------------------------|
@@ -250,6 +235,9 @@ Feel free to [edit the README](https://github.com/Deeksha-paliwal2004/Constructi
 | ⚡ **Fast Loading**               | Minified CSS/JS and optimized images ensure speedy performance.              |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
 <!-- PROJECT STRUCTURE -->
 ## Project Structure
 
@@ -276,6 +264,8 @@ construction-company/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 <!-- 🛣️ ROADMAP -->
 ## 🛣️ Roadmap
 
@@ -301,6 +291,9 @@ Here’s a look at our development journey — what’s done ✅ and what’s co
 📌 See the [open issues](https://github.com/your-username/construction-company/issues) for more ideas and known bugs!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -314,6 +307,8 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+---
 
 ### Team Members
 
@@ -331,6 +326,8 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 <!-- LICENSE -->
 ## License
 
@@ -338,8 +335,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 <!-- 📞 CONTACT -->
-## 📞 Contact
+### 📞 Contact
 
 We’d love to hear from you!
 
@@ -355,7 +354,7 @@ Feel free to reach out for collaborations, suggestions, or contributions!
 ---
 
 <!-- 🙏 ACKNOWLEDGMENTS -->
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Huge thanks to the following tools and resources that made this project possible:
 
