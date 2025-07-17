@@ -6,35 +6,68 @@
 body{
   background-color: #f4f4f4;
 }
-#header {
+.header {
   background-color: #222;
   color: #fff;
   padding: 20px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-   
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  
 }
 
-#header .logo {
+.header .logo {
   font-size: 24px;
   font-weight: bold;
   color: #f9c846;
 }
- 
+
+.header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+   flex-wrap: wrap;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.header nav ul li a:hover {
+  color: #f9c846;
+}
+.intro{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  width: 100%;
+   
+}
+.intro div{
+   font-style: oblique;
+}
+  
 .box{
-  width: 20vw;
-  box-shadow: 4px 2px 0px rgb(95, 94, 94);
-  height: 20vw;
+  width: 40vmin;
+  
+  height: 40vmin;
+   background-color: rgb(182, 178, 178);
    padding: 0.75rem;
    margin: 0.25rem;
-   border: 2px solid rgb(194, 190, 190);
+   color: white;
   border-radius: 10%; 
   cursor: pointer;
-  font-weight: 800;
+  font-weight: 600;
   font-style: italic;
   font-size: 1.25rem;
-  color: black  ;
+   
    
 }
 .box:hover{
@@ -45,7 +78,7 @@ body{
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 15px;
+  margin : auto;
 }
 .category{
     margin-top: 20px;
@@ -57,7 +90,7 @@ footer {
   background: #222;
   color: white;
   text-align: center;
-  padding: 20px;
+   padding: 20px;  
    
 }
  
