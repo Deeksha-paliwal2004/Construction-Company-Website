@@ -3,80 +3,121 @@
     "title": "Sunrise Mall Complex",
     "type": "Commercial",
     "location": "Bhopal, Madhya Pradesh",
-    "completed": "April 2024",
-    "description": "A multi-brand shopping complex featuring 80+ retail outlets and a food court.",
-    "image": "images/sunrise-mall.jpg"
+    "status": "Completed in 2024",
+    "description": "A multi-brand shopping complex featuring 80+ retail outlets, a food court, ample parking, and entertainment zones.",
+    "image": "images/sunrise-mall.png"
   },
   {
     "title": "Corporate Tech Park",
     "type": "Commercial",
     "location": "Noida, Uttar Pradesh",
-    "completed": "November 2023",
-    "description": "A 12-floor office tower with modern amenities and LEED certification.",
+    "status": "Completed in 2023",
+    "description": "A 12-floor LEED-certified office tower with modern amenities, energy-efficient systems, and high-speed elevators.",
     "image": "images/tech-park.jpg"
   },
   {
     "title": "Metro Business Center",
     "type": "Commercial",
     "location": "Hyderabad, Telangana",
-    "completed": "January 2024",
-    "description": "A business park designed for startups and SMEs with co-working spaces.",
+    "status": "Completed in 2024",
+    "description": "A business park designed for startups and SMEs with co-working spaces, modular offices, and collaborative zones.",
     "image": "images/business-center.jpg"
   },
   {
     "title": "City Square Tower",
     "type": "Commercial",
     "location": "Ahmedabad, Gujarat",
-    "completed": "August 2023",
-    "description": "A commercial skyscraper with retail, office, and restaurant spaces.",
+    "status": "Completed in 2023",
+    "description": "A commercial skyscraper with mixed-use spaces including retail outlets, premium offices, and rooftop restaurants.",
     "image": "images/city-square.jpg"
   },
   {
     "title": "Industrial Shed Project",
     "type": "Commercial",
     "location": "Pune, Maharashtra",
-    "completed": "March 2022",
-    "description": "A heavy-duty industrial unit for manufacturing and logistics.",
+    "status": "Completed in 2022",
+    "description": "A heavy-duty industrial unit built for manufacturing and logistics operations with reinforced floors and docking bays.",
     "image": "images/industrial-shed.jpg"
   },
   {
     "title": "Modern Villa Estate",
     "type": "Residential",
     "location": "Jaipur, Rajasthan",
-    "completed": "March 2024",
-    "description": "A luxurious 4BHK villa community with gardens and private pools.",
+    "status": "Completed in 2024",
+    "description": "A luxurious 4BHK villa community offering private pools, landscaped gardens, and high-end security features.",
     "image": "images/villa-estate.jpg"
   },
   {
     "title": "Hilltop Cottages",
     "type": "Residential",
     "location": "Shimla, Himachal Pradesh",
-    "completed": "July 2023",
-    "description": "Wooden vacation cottages with scenic valley views and fireplaces.",
+    "status": "Completed in 2023",
+    "description": "Scenic wooden vacation cottages with cozy interiors, fireplaces, and breathtaking views of the surrounding valley.",
     "image": "images/hilltop-cottages.jpg"
   },
   {
     "title": "Duplex Housing Project",
     "type": "Residential",
     "location": "Indore, Madhya Pradesh",
-    "completed": "December 2023",
-    "description": "A modern duplex community with parking, parks, and clubhouses.",
+    "status": "Completed in 2023",
+    "description": "A modern duplex community with ample parking, clubhouses, parks, and play areas for families.",
     "image": "images/duplex-indore.jpg"
   },
   {
     "title": "Green Living Apartments",
     "type": "Residential",
     "location": "Bangalore, Karnataka",
-    "completed": "October 2023",
-    "description": "Eco-friendly flats with solar panels, recycling units, and playgrounds.",
+    "status": "Completed in 2023",
+    "description": "Eco-friendly flats equipped with solar panels, waste recycling systems, and community amenities.",
     "image": "images/green-apartments.jpg"
   },
   {
     "title": "Riverside Residency",
     "type": "Residential",
     "location": "Kochi, Kerala",
-    "completed": "May 2022",
-    "description": "Waterfront apartments with 24x7 security and recreation zones.",
+    "status": "Completed in 2022",
+    "description": "Waterfront apartment complex with modern design, 24x7 security, swimming pools, and recreational areas.",
     "image": "images/riverside-residency.jpg"
+  },
+  {
+    "title": "Skyline IT Park",
+    "type": "Commercial",
+    "location": "Gurgaon, Haryana",
+    "status": "Ongoing",
+    "description": "A high-tech commercial IT park with smart infrastructure, energy-efficient buildings, and dedicated data centers.",
+    "image": "images/skyline-it-park.jpg"
+  },
+  {
+    "title": "Greenview Residency Phase 2",
+    "type": "Residential",
+    "location": "Nagpur, Maharashtra",
+    "status": "Ongoing",
+    "description": "Phase 2 of the eco-friendly housing project offering 2BHK and 3BHK flats with rooftop gardens and green spaces.",
+    "image": "images/greenview-phase2.jpg"
+  },
+  {
+    "title": "Coastal Plaza Mall",
+    "type": "Commercial",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "status": "Ongoing",
+    "description": "A large-scale shopping mall with premium retail spaces, cinema halls, food courts, and kids' play zones.",
+    "image": "images/coastal-plaza.jpg"
+  },
+  {
+    "title": "Serene Villas Community",
+    "type": "Residential",
+    "location": "Dehradun, Uttarakhand",
+    "status": "Ongoing",
+    "description": "A premium hillside villa development with modern amenities, lush surroundings, and panoramic mountain views.",
+    "image": "images/serene-villas.jpg"
+  },
+  {
+    "title": "Metro Logistics Hub",
+    "type": "Commercial",
+    "location": "Nagpur, Maharashtra",
+    "status": "Ongoing",
+    "description": "An integrated logistics hub offering warehouse facilities, docking stations, and proximity to major transport routes.",
+    "image": "images/metro-logistics.jpg"
   }
 ]
+
