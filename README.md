@@ -80,9 +80,11 @@
 ├── 📞 Contact  
 └── 🙏 Acknowledgments
 </details>
+
 ---
+
 <!-- ABOUT THE PROJECT -->
-### 📘 About The Project
+## About The Project
 
 [![Website Preview][product-screenshot]](https://Deeksha-paliwal2004.github.io/construction-company)
 
@@ -311,9 +313,10 @@ Don't forget to give the project a star! Thanks again!
 
 ### Team Members
 
-<a href="https://github.com/Deeksha-paliwal2004/construction-company/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Deeksha-paliwal2004/construction-company" alt="contrib.rocks image" />
+<a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Deeksha-paliwal2004/Construction-Company-Website" alt="contrib.rocks image" />
 </a>
+
 ---
 
 ### 🙌 Team Contributors
