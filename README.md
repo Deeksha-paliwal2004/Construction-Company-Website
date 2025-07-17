@@ -296,31 +296,49 @@ Here’s a look at our development journey — what’s done ✅ and what’s co
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such a wonderful place to learn, inspire, and build together.  
+Any contributions you make are **greatly appreciated** and will help improve this project.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have suggestions or improvements, feel free to:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- ⭐ Fork the repository  
+- 🛠️ Create a feature branch  
+- 📦 Make your changes  
+- 🚀 Push the branch  
+- 📬 Open a pull request
+
+Don’t forget to give the project a ⭐ if you found it helpful!
+
+---
+
+### 🔧 How to Contribute
+
+1. **Fork** the repository  
+2. **Create** a feature branch:
+   ```bash
+   git checkout -b feature/AmazingFeature
+3. Commit your changes:
+   ```bash
+   git commit -m "Add AmazingFeature"
+4. Push to the branch:
+   ```bash
+   git push origin feature/AmazingFeature
+5. Open a Pull Request and describe your changes
 
 ---
 
 ### Team Members
 
-<a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/graphs/contributors">
+<!--<a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Deeksha-paliwal2004/Construction-Company-Website" alt="contrib.rocks image" />
 </a>
 
 ---
 
 ### 🙌 Team Contributors
-
+--->
 | Name               | GitHub Profile |
 |--------------------|----------------|
 | Deeksha Paliwal    | [@Deeksha](https://github.com/Deeksha-paliwal2004) |
