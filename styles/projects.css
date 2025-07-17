@@ -1,22 +1,32 @@
-*{
+* {
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-body{
+body {
   background-color: #f4f4f4;
 }
+<<<<<<< HEAD
 .header {
+=======
+
+/* Mahesh: Header lacks navigation; sub-branch should add mobile menu for usability */
+
+#header {
+>>>>>>> 3f7a96772e2afa84ddd44a22499b79db93c713be
   background-color: #222;
   color: #fff;
   padding: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+<<<<<<< HEAD
   position: sticky;
   top: 0;
   z-index: 1000;
   
+=======
+>>>>>>> 3f7a96772e2afa84ddd44a22499b79db93c713be
 }
 
 .header .logo {
@@ -25,6 +35,7 @@ body{
   color: #f9c846;
 }
 
+<<<<<<< HEAD
 .header nav ul {
   list-style: none;
   display: flex;
@@ -63,37 +74,53 @@ body{
    margin: 0.25rem;
    color: white;
   border-radius: 10%; 
+=======
+/* Mahesh: No media queries; ensure sub-branch includes responsive design for <768px */
+
+.box {
+  width: 20vw;
+  box-shadow: 4px 2px 0px rgb(95, 94, 94);
+  height: 20vw;
+  padding: 0.75rem;
+  margin: 0.25rem;
+  border: 2px solid rgb(194, 190, 190);
+  border-radius: 10%;
+>>>>>>> 3f7a96772e2afa84ddd44a22499b79db93c713be
   cursor: pointer;
   font-weight: 600;
   font-style: italic;
   font-size: 1.25rem;
+<<<<<<< HEAD
    
    
+=======
+  color: black;
+>>>>>>> 3f7a96772e2afa84ddd44a22499b79db93c713be
 }
-.box:hover{
-   border: 4px solid rgb(248, 104, 104);
+.box:hover {
+  border: 4px solid rgb(248, 104, 104);
 }
-.container{
+.container {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   margin : auto;
 }
-.category{
-    margin-top: 20px;
+.category {
+  margin-top: 20px;
 }
-h3{
+h3 {
   text-align: center;
 }
 footer {
   background: #222;
   color: white;
   text-align: center;
+<<<<<<< HEAD
    padding: 20px;  
    
+=======
+  padding: 20px;
+>>>>>>> 3f7a96772e2afa84ddd44a22499b79db93c713be
 }
- 
-
- 
- 
