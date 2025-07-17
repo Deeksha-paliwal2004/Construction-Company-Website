@@ -61,56 +61,59 @@
 [license-shield]: https://img.shields.io/github/license/Deeksha-paliwal2004/Construction-Company-Website.svg?style=for-the-badge
 [license-url]: https://github.com/Deeksha-paliwal2004/Construction-Company-Website/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/your-linkedin
-[product-screenshot]: images/screenshot.png
 
+<!-- 📑 TABLE OF CONTENTS -->
+<details open>
+  <summary><h2>📚 Table of Contents</h2></summary
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#project-structure">Project Structure</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+├── 📘 About the Project  
+│   └── 🔧 Built With  
+├── 🚀 Getting Started  
+│   ├── 📦 Prerequisites  
+│   └── 🔧 Installation  
+├── ⚙️ Usage  
+├── ✨ Features  
+├── 📁 Project Structure  
+├── 🛣️ Roadmap  
+├── 🤝 Contributing  
+├── 📜 License  
+├── 📞 Contact  
+└── 🙏 Acknowledgments
 </details>
-
+---
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### 📘 About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://Deeksha-paliwal2004.github.io/construction-company)
+[![Website Preview][product-screenshot]](https://Deeksha-paliwal2004.github.io/construction-company)
 
-BuildRight Construction Company Website is a comprehensive, responsive web application designed to professionally showcase construction services, completed projects, and company information. This project targets potential clients, investors, and stakeholders seeking reliable construction solutions.
+**BuildRight Construction Company Website** is a modern, responsive web platform created to professionally represent a construction business. It targets potential **clients**, **investors**, and **stakeholders** seeking reliable and quality construction services.
 
-The website demonstrates modern web development practices and serves as a complete digital presence for a construction business, featuring project galleries, service listings, and interactive contact forms.
+---
 
-Here's why this project stands out:
-* **Professional Design**: Clean, modern interface that builds trust with potential clients
-* **Responsive Layout**: Works seamlessly on desktop, tablet, and mobile devices
-* **Interactive Features**: Smooth scrolling, hover effects, and dynamic content loading
-* **Project Showcase**: Comprehensive gallery of completed commercial and residential projects
-* **Contact Integration**: Easy-to-use contact forms for customer inquiries
+#### 🚧 What This Project Offers:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+✅ **Professional Design**  
+&emsp;→ A clean and modern interface that builds trust with visitors
+
+✅ **Responsive Layout**  
+&emsp;→ Works flawlessly across desktops, tablets, and mobile devices
+
+✅ **Interactive Features**  
+&emsp;→ Includes smooth scrolling, hover effects, and dynamic elements
+
+✅ **Project Showcase**  
+&emsp;→ Organized gallery displaying both commercial and residential projects
+
+✅ **Contact Integration**  
+&emsp;→ Easy-to-use forms for inquiries and quote requests
+
+---
+
+This project is a complete digital presence for a construction company, built with modern web development practices, intuitive user experience, and a strong visual identity.
+
+> ⭐ _It’s not just a site — it’s a statement of trust, quality, and capability._
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+---
 
 ### Built With
 
@@ -121,12 +124,16 @@ This section lists the major frameworks and technologies used to bootstrap this 
 * [![JavaScript][JavaScript.com]][JavaScript-url]
 <!--* [![Bootstrap][Bootstrap.com]][Bootstrap-url] -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
+---
+
 ## Getting Started
 
 This is a static website that requires no special software to run. Follow these simple steps to get a local copy up and running.
+
+---
 
 ### Prerequisites
 
@@ -135,6 +142,8 @@ You only need a modern web browser to view this website:
 * Mozilla Firefox
 * Microsoft Edge
 * Safari
+
+---
 
 ### 🔧 Installation
 
@@ -155,9 +164,11 @@ You only need a modern web browser to view this website:
 Or visit the live version:  
 👉 https://Deeksha-paliwal2004.github.io/Construction-Company-Website
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- 🚀 USAGE EXAMPLES -->
+---
+
 ## 🚀 How to Use This Website
 
 This construction company website is designed with **ease of navigation**, **visual appeal**, and **user experience** in mind. Here’s a walkthrough of each core section:
@@ -206,8 +217,11 @@ This construction company website is designed with **ease of navigation**, **vis
 🔧 **Want to customize this?**  
 Feel free to [edit the README](https://github.com/Deeksha-paliwal2004/Construction-Company-Website/edit/main/README.md) or personalize the content for your brand/client.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 <!-- ✨ FEATURES -->
+
+---
+
 ## ✨ Features
 
 | 🚀 Feature                         | 💡 Description                                                                 |
@@ -220,8 +234,10 @@ Feel free to [edit the README](https://github.com/Deeksha-paliwal2004/Constructi
 | 🔍 **SEO Optimized**              | Semantic HTML and structured meta tags improve search engine visibility.     |
 | ⚡ **Fast Loading**               | Minified CSS/JS and optimized images ensure speedy performance.              |
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 <!-- PROJECT STRUCTURE -->
+---
+
 ## Project Structure
 
 ```
@@ -245,9 +261,11 @@ construction-company/
 └── README.md                # Project documentation
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- 🛣️ ROADMAP -->
+---
+
 ## 🛣️ Roadmap
 
 Here’s a look at our development journey — what’s done ✅ and what’s coming up 🔧:
@@ -271,8 +289,11 @@ Here’s a look at our development journey — what’s done ✅ and what’s co
 
 📌 See the [open issues](https://github.com/your-username/construction-company/issues) for more ideas and known bugs!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 <!-- CONTRIBUTING -->
+
+---
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -286,30 +307,36 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+---
+
 ### Team Members
 
-<a href="https://github.com/your-username/construction-company/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your-username/construction-company" alt="contrib.rocks image" />
+<a href="https://github.com/Deeksha-paliwal2004/construction-company/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Deeksha-paliwal2004/construction-company" alt="contrib.rocks image" />
 </a>
+---
 
-**Team Contributors :**
-- [Deeksha-paliwal](https://github.com/Deeksha-paliwal2004)
-- [Ariya](https://github.com/ariya10)
-- [Sahithi](https://github.com/sahithi3005)
-- [Mahesh-More](https://github.com/Mahesh-more1)
-- [Member 5](https://github.com/member5)
-- [Member 6](https://github.com/member6)
-- [Member 7](https://github.com/member7)
-- [Member 8](https://github.com/member8)
+### 🙌 Team Contributors
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+| Name               | GitHub Profile |
+|--------------------|----------------|
+| Deeksha Paliwal    | [@Deeksha](https://github.com/Deeksha-paliwal2004) |
+| Ariya Sri          | [@Ariya](https://github.com/ariya10) |
+| Gunapu Sahithi     | [@Sahithi](https://github.com/sahithi3005) |
+| Mahesh More        | [@Mahesh](https://github.com/Mahesh-more1) |
+| Sanskruti Kumbhare | [@Sanskruti](https://github.com/Sanskruti100) |
+| Uddanti Bhavana    | [@Bhavana](https://github.com/UddantiBhavana) |
+
+---
+
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTACT -->
 ## Contact
@@ -320,7 +347,7 @@ Project Link: [https://github.com/your-username/construction-company](https://gi
 
 Live Demo: [https://your-username.github.io/construction-company](https://Deeksha-paliwal2004.github.io/construction-company)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
