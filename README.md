@@ -340,17 +340,20 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+---
 
 <!-- CONTACT -->
-## Contact
+## 📞 Contact
 
-Project Team - [@construction_team](https://twitter.com/construction_team) - team@constructioncompany.com
+We’d love to hear from you! Feel free to reach out for **collaborations**, **feedback**, or **contributions**.
 
-Project Link: [https://github.com/your-username/construction-company](https://github.com/Deeksha-paliwal2004/construction-company)
-
-Live Demo: [https://your-username.github.io/construction-company](https://Deeksha-paliwal2004.github.io/construction-company)
+- 🛠️ **Project Team**: [@construction_team](https://twitter.com/construction_team)  
+- 📧 **Email**: [team@constructioncompany.com](mailto:team@constructioncompany.com)  
+- 💻 **GitHub Repository**: [https://github.com/Deeksha-paliwal2004/construction-company](https://github.com/Deeksha-paliwal2004/construction-company)  
+- 🌐 **Live Demo**: [https://Deeksha-paliwal2004.github.io/construction-company](https://Deeksha-paliwal2004.github.io/construction-company)
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+---
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
