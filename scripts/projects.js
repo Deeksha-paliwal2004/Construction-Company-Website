@@ -4,7 +4,10 @@ const extract = async ( ) => {
     data.forEach(item=> {
        let div = document.createElement('div')
             div.classList.add("box")
-            div.innerHTML = item.title
+            let shade = document.createElement('div')
+            shade.style.backgroundColor = 'rgba(0,0,0,0.4)'
+            shade.textContent = item.title
+            div.appendChild(shade)
              
             div.style.backgroundImage = `url(../${item.image})`
             div.style.backgroundSize = "cover"
@@ -21,6 +24,7 @@ const extract = async ( ) => {
             pr.appendChild(div)
            
         }
+          
         div.onclick = ()=>{
           displaydeep(item) 
         }
