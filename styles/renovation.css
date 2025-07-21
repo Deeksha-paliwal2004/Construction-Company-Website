@@ -1,3 +1,5 @@
+/* commercial.css - for commercial.html page */
+
 /* ========== Basic Reset ========== */
 * {
   margin: 0;
@@ -13,7 +15,7 @@ body {
 }
 
 /* ========== Header ========== */
-.res-header {
+.reno-header {
   background: linear-gradient(to right, #0f2027, #2c5364);
   color: white;
   padding: 50px 20px;
@@ -21,18 +23,18 @@ body {
   animation: slideDown 1s ease;
 }
 
-.res-header h1 {
+.reno-header h1 {
   font-size: 3em;
   margin-bottom: 10px;
 }
 
-.res-header p {
+.reno-header p {
   font-size: 1.2em;
   font-style: italic;
 }
 
 /* ========== Content Section ========== */
-.res-content {
+.reno-content {
   display: flex;
   flex-wrap: wrap;
   padding: 40px 20px;
@@ -40,7 +42,7 @@ body {
   align-items: center;
 }
 
-.res-image img {
+.reno-image img {
   width: 100%;
   max-width: 400px;
   border-radius: 10px;
@@ -48,32 +50,32 @@ body {
   transition: transform 0.3s;
 }
 
-.res-image img:hover {
+.reno-image img:hover {
   transform: scale(1.05);
 }
 
-.res-text {
+.reno-text {
   max-width: 600px;
   margin: 20px;
 }
 
-.res-text h2 {
+.reno-text h2 {
   color: #2c5364;
   margin-bottom: 10px;
 }
 
-.res-text ul {
+.reno-text ul {
   margin-top: 10px;
   padding-left: 20px;
 }
 
 /* ========== Gallery Section ========== */
-.res-gallery {
+.reno-gallery {
   padding: 40px 20px;
   text-align: center;
 }
 
-.res-gallery h2 {
+.reno-gallery h2 {
   color: #2c5364;
   margin-bottom: 20px;
 }
@@ -97,17 +99,17 @@ body {
 }
 
 /* ========== Contact Section ========== */
-.res-contact {
+.reno-contact {
   padding: 40px 20px;
   background: #f1f1f1;
   text-align: center;
 }
 
-.res-contact h2 {
+.reno-contact h2 {
   margin-bottom: 20px;
 }
 
-.res-contact form {
+.reno-contact form {
   max-width: 600px;
   margin: auto;
   display: flex;
@@ -115,14 +117,14 @@ body {
   gap: 15px;
 }
 
-.res-contact input,
-.res-contact textarea {
+.reno-contact input,
+.reno-contact textarea {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
 }
 
-.res-contact button {
+.reno-contact button {
   padding: 12px;
   background-color: #2c5364;
   color: white;
@@ -132,12 +134,12 @@ body {
   transition: background 0.3s;
 }
 
-.res-contact button:hover {
+.reno-contact button:hover {
   background-color: #1c384b;
 }
 
 /* ========== Footer ========== */
-.res-footer {
+.reno-footer {
   padding: 20px;
   text-align: center;
   background-color: #2c5364;
@@ -168,7 +170,7 @@ body {
 
 /* ========== Responsive Design ========== */
 @media (max-width: 768px) {
-  .res-content {
+  .reno-content {
     flex-direction: column;
     align-items: center;
   }
