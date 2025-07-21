@@ -13,6 +13,48 @@ body {
   color: #222;
   line-height: 1.6;
 }
+.header {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  
+}
+
+.header .logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f9c846;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo img{
+  border-radius: 50%;
+}
+
+.header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+   flex-wrap: wrap;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.header nav ul li a:hover {
+  color: #f9c846;
+}
 
 .service-section {
   padding: 50px 20px;
@@ -157,7 +199,13 @@ body {
 .contact-section button:hover {
   background-color: #3200a0;
 }
-
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+   padding: 20px;  
+   
+}
 /* Animations */
 @keyframes fadeInUp {
   from {
