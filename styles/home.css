@@ -27,6 +27,12 @@ body {
   font-size: 24px;
   font-weight: bold;
   color: #f9c846;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo img{
+  border-radius: 50%;
 }
 
 .header nav ul {
