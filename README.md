@@ -28,22 +28,24 @@
 <br />
 <div align="center">
   <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website">
-    <img src="images/logo.jpeg" alt="Logo" width="80" height="80">
+    <img src="images/logo-rounded.jpeg" alt="BuildRight Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Construction Company Website</h3>
+  <h2 align="center"><strong>🏗️ BuildRight — Construction Company Website</strong></h2>
 
   <p align="center">
-    A professional responsive website for showcasing construction services and projects!
-    <br />
-    <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://Deeksha-paliwal2004.github.io/Construction-Company-Website">View Demo</a>
+    A modern, responsive website designed to showcase construction services and projects professionally.<br />
+    <em>“Building trust through design and code.”</em>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website"><strong>📘 Explore the Docs »</strong></a>
+    <br /><br />
+    <a href="https://Deeksha-paliwal2004.github.io/Construction-Company-Website">🌐 Live Demo</a>
     ·
-    <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/issues/new?labels=bug&template=bug-report---.md">🐞 Report Bug</a>
     ·
-    <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website/issues/new?labels=enhancement&template=feature-request---.md">💡 Request Feature</a>
   </p>
 </div>
 
