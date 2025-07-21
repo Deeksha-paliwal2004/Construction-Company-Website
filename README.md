@@ -387,7 +387,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [Unsplash](https://unsplash.com) - For high-quality construction images
 * [Google Fonts](https://fonts.google.com)
-* [Bootstrap Documentation](https://getbootstrap.com/docs/)
+<!--* [Bootstrap Documentation](https://getbootstrap.com/docs/)-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -412,5 +412,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [CSS3-url]: https://www.w3.org/Style/CSS/
 [JavaScript.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+<!--[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com-->
