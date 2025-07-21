@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+.header {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+
+.header .logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #f9c846;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo img {
+  border-radius: 50%;
+}
+
+.header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.header nav ul li a:hover {
+  color: #f9c846;
+}
+
+#view {
+  
+  width: 100%;
+  aspect-ratio: 16 / 9; /* or responsive height */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #f0f0f0; /* fallback color */
+   animation: slide 0.8s ease;
+}
+
+.over-view {
+  background-color: #eaeaea;
+  display: flex;
+  flex-direction: column;
+  color: #4a00e0;
+  margin-top: 0.1rem;
+  padding: 2rem;
+  min-height: 70vh;
+
+}
+
+#info2 {
+  margin-top: 20px;
+  font-size: 1.75rem;
+  margin-bottom: 20px;
+}
+ 
+ 
+
+.over-view a:hover {
+  color: red;
+
+}
+.back-button {
+  
+  text-decoration: none;
+   font-size: 1.75rem;
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+
+}
+@keyframes slide {
+  from{
+      opacity: 0;
+      transform: translate(50px);
+  }
+  to{
+    opacity: 1;
+    transform: translate(0px);
+  }
+}
