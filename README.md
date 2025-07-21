@@ -31,7 +31,7 @@
     <img src="images/logo-rounded.jpeg" alt="BuildRight Logo" width="120" height="120">
   </a>
 
-  <h2 align="center"><strong>🏗️ BuildRight — Construction Company Website</strong></h2>
+  <h2 align="center"><strong>BuildRight — Construction Company Website</strong></h2>
 
   <p align="center">
     A modern, responsive website designed to showcase construction services and projects professionally.<br />
