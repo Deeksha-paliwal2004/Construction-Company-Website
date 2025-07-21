@@ -1,105 +1,135 @@
-/* File: ../css/services.css */
-.services-section {
-  padding: 40px;
-  background-color: #f9f9f9;
-  font-family: Arial, sans-serif;
+ 
+/* service.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.services-section h2,
-.testimonial-section h2,
-.contact-section h2 {
+body {
+  background-color: #f5f5f5;
+  color: #222;
+  line-height: 1.6;
+}
+
+.service-section {
+  padding: 50px 20px;
   text-align: center;
-  margin-bottom: 30px;
-  font-size: 2em;
+}
+
+.service-section h2 {
+  font-size: 2.5rem;
   color: #333;
-  animation: fadeIn 1s ease-in-out;
+  margin-bottom: 30px;
+  animation: fadeIn 1s ease;
 }
 
-.services-container {
+.service-container {
   display: flex;
-  justify-content: center;
-  gap: 20px;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
 }
 
-/* Mahesh: 768px media query reduces cards to 90%; test <350px for potential overflow in sub-branch */
 .service-card {
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
   width: 300px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s, box-shadow 0.3s;
-  animation: slideUp 0.8s ease forwards;
-  opacity: 0;
-  text-align: center;
+  transition: transform 0.3s ease;
+  animation: fadeInUp 0.8s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+ 
 }
 
 .service-img {
   width: 100%;
-  height: 180px;
+ 
+  height: 200px;
   object-fit: cover;
-  border-radius: 5px;
-  margin-bottom: 15px;
-}
-
-.service-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .service-card h3 {
-  margin-top: 0;
-  color: #005a9c;
+  font-size: 1.5rem;
+  margin: 15px 0 10px;
+  color: #4a00e0;
 }
 
 .service-card p {
+  font-size: 1rem;
+  padding: 0 15px 15px;
   color: #555;
-  margin-bottom: 15px;
 }
 
 .learn-more {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  background-color: #4a00e0;
+  color: white;
   text-decoration: none;
-  color: #fff;
-  background-color: #005a9c;
-  padding: 8px 15px;
   border-radius: 5px;
-  font-size: 0.9em;
-  transition: background-color 0.3s;
+  transition: background-color 0.3s ease;
 }
 
 .learn-more:hover {
-  background-color: #004080;
+  background-color: #3200a0;
 }
 
+/* Testimonial Section */
 .testimonial-section {
-  padding: 40px;
-  background-color: #eaf2f8;
+  background: #fff;
+  padding: 40px 20px;
   text-align: center;
 }
 
+.testimonial-section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #4a00e0;
+}
+
 .testimonial {
-  margin: 10px auto;
   max-width: 600px;
+  margin: 15px auto;
+  background: #f0f0f0;
+  padding: 20px;
+  border-left: 5px solid #4a00e0;
+  border-radius: 5px;
   font-style: italic;
-  color: #333;
+ 
 }
 
 .testimonial span {
   display: block;
   margin-top: 10px;
+ 
+  color: #333;
   font-weight: bold;
 }
 
+/* Contact Section */
 .contact-section {
-  padding: 40px;
-  background-color: #f2f2f2;
+  background: #eaeaea;
+  padding: 40px 20px;
   text-align: center;
 }
 
+.contact-section h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
 .contact-section form {
-  max-width: 500px;
+  max-width: 600px;
+ 
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -108,37 +138,36 @@
 
 .contact-section input,
 .contact-section textarea {
-  padding: 10px;
-  border: 1px solid #ccc;
+ 
+  padding: 12px;
   border-radius: 5px;
-  font-size: 1em;
-  width: 100%;
+  border: 1px solid #ccc;
 }
 
 .contact-section button {
-  padding: 10px;
-  background-color: #005a9c;
+  padding: 12px;
+  background-color: #4a00e0;
   color: white;
   border: none;
   border-radius: 5px;
-  font-size: 1em;
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: background 0.3s;
 }
 
 .contact-section button:hover {
-  background-color: #004080;
+  background-color: #3200a0;
 }
 
-/* Mahesh: Animation in service.js aligns with slideUp; ensure mobile performance is optimized */
-@keyframes slideUp {
+/* Animations */
+@keyframes fadeInUp {
   from {
-    transform: translateY(20px);
     opacity: 0;
+    transform: translateY(30px);
   }
   to {
-    transform: translateY(0);
     opacity: 1;
+    transform: translateY(0);
+ 
   }
 }
 
@@ -151,8 +180,11 @@
   }
 }
 
+ 
+/* Responsive */
 @media (max-width: 768px) {
-  .services-container {
+  .service-container {
+ 
     flex-direction: column;
     align-items: center;
   }
@@ -160,9 +192,10 @@
   .service-card {
     width: 90%;
   }
-
-  .testimonial,
+ 
+ 
   .contact-section form {
     width: 90%;
   }
 }
+ 
