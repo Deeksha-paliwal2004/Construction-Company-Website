@@ -47,10 +47,11 @@ At BuildRight, we believe every project is more than just brick and mortar—it'
 
     <section id="contact" class="contact">
       <h2>Contact Us</h2>
-      <form id="contact-form">
-        <input type="text" placeholder="Your Name" required />
-        <input type="email" placeholder="Email Address" required />
-        <textarea placeholder="Your Message" required></textarea>
+      
+      <form action="https://formspree.io/f/xldljknq" method="post" id="contact-form">
+        <input type="text" name="name" placeholder="Your Name" required />
+        <input type="email" name="email" placeholder="Email Address" required />
+        <textarea name="message" placeholder="Your Message" required></textarea>
         <button type="submit">Send Message</button>
       </form>
     </section>
