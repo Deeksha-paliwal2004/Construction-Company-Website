@@ -96,45 +96,7 @@ body {
   transform: scale(1.05);
 }
 
-/* ========== Contact Section ========== */
-.res-contact {
-  padding: 40px 20px;
-  background: #f1f1f1;
-  text-align: center;
-}
-
-.res-contact h2 {
-  margin-bottom: 20px;
-}
-
-.res-contact form {
-  max-width: 600px;
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.res-contact input,
-.res-contact textarea {
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-.res-contact button {
-  padding: 12px;
-  background-color: #2c5364;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background 0.3s;
-}
-
-.res-contact button:hover {
-  background-color: #1c384b;
-}
+ 
 
 /* ========== Footer ========== */
 .res-footer {

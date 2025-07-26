@@ -97,44 +97,7 @@ body {
 }
 
 /* ========== Contact Section ========== */
-.road-contact {
-  padding: 40px 20px;
-  background: #f1f1f1;
-  text-align: center;
-}
-
-.road-contact h2 {
-  margin-bottom: 20px;
-}
-
-.road-contact form {
-  max-width: 600px;
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.road-contact input,
-.road-contact textarea {
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-.road-contact button {
-  padding: 12px;
-  background-color: #2c5364;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background 0.3s;
-}
-
-.road-contact button:hover {
-  background-color: #1c384b;
-}
+ 
 
 /* ========== Footer ========== */
 .road-footer {

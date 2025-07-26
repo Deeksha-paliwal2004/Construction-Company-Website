@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
     card.style.opacity = 1;
   });
 
-  // Mahesh: Animation delay works well; test mobile performance in sub-branch
+   
   console.log("Service Page Loaded Successfully");
 });

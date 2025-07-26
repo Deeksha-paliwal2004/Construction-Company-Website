@@ -156,49 +156,7 @@ body {
   font-weight: bold;
 }
 
-/* Contact Section */
-.contact-section {
-  background: #eaeaea;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-.contact-section h2 {
-  font-size: 2rem;
-  color: #333;
-  margin-bottom: 20px;
-}
-
-.contact-section form {
-  max-width: 600px;
  
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.contact-section input,
-.contact-section textarea {
- 
-  padding: 12px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-}
-
-.contact-section button {
-  padding: 12px;
-  background-color: #4a00e0;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background 0.3s;
-}
-
-.contact-section button:hover {
-  background-color: #3200a0;
-}
 footer {
   background: #222;
   color: white;

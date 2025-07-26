@@ -98,46 +98,7 @@ body {
   transform: scale(1.05);
 }
 
-/* ========== Contact Section ========== */
-.reno-contact {
-  padding: 40px 20px;
-  background: #f1f1f1;
-  text-align: center;
-}
-
-.reno-contact h2 {
-  margin-bottom: 20px;
-}
-
-.reno-contact form {
-  max-width: 600px;
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.reno-contact input,
-.reno-contact textarea {
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-.reno-contact button {
-  padding: 12px;
-  background-color: #2c5364;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background 0.3s;
-}
-
-.reno-contact button:hover {
-  background-color: #1c384b;
-}
-
+ 
 /* ========== Footer ========== */
 .reno-footer {
   padding: 20px;
