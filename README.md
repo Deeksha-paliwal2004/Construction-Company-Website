@@ -26,9 +26,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/Deeksha-paliwal2004/Construction-Company-Website">
-    <img src="images/logo-rounded.png" alt="BuildRight Logo" width="120" height="120">
+    <img src="images/logo-rounded.png" alt="BuildRight Logo" style="width: 180px; height: 180px; border-radius: 10px;">
   </a>
-
+</div>
   <h2 align="center"><strong>BuildRight — Construction Company Website</strong></h2>
 
   <p align="center">
