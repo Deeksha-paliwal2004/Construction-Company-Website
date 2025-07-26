@@ -280,7 +280,7 @@ Here’s a look at our development journey — what’s done ✅ and what’s co
 - [x] 🖼️ Projects gallery integrated with JSON data
 - [x] ✨ Smooth CSS animations and interactive UI elements
 
-### 🚧 In Progress / Planned
+### 🚧 Possible Future Enhancements
 - [ ] 🛎️ Complete services page with detailed content
 - [ ] 🔍 Add dynamic project filtering and keyword search
 - [ ] 📤 Backend processing for contact form (PHP/Node planned)
@@ -368,8 +368,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 We’d love to hear from you! Feel free to reach out for **collaborations**, **feedback**, or **contributions**.
 
 - 🛠️ **Project Team**: [@construction_team](https://twitter.com/construction_team)  
-- 📧 **Email**: [team@constructioncompany.com](mailto:team@constructioncompany.com)  
-- 💻 **GitHub Repository**: [https://github.com/Deeksha-paliwal2004/construction-company](https://github.com/Deeksha-paliwal2004/construction-company)  
+<!-- - 📧 **Email**: [team@constructioncompany.com](mailto:team@constructioncompany.com)  -->
+- 💻 **GitHub Repository**: [https://github.com/Deeksha-paliwal2004/construction-company](https://github.com/Deeksha-paliwal2004/construction-company)
+  
 - 🌐 **Live Demo**: [https://Deeksha-paliwal2004.github.io/construction-company](https://Deeksha-paliwal2004.github.io/construction-company)
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
