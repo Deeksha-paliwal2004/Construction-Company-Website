@@ -65,6 +65,7 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <!-- 📑 TABLE OF CONTENTS -->
+---
 <details open>
   <summary><h2>📚 Table of Contents</h2></summary
 
