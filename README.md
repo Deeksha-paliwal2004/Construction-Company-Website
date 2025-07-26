@@ -245,24 +245,51 @@ Feel free to [edit the README](https://github.com/Deeksha-paliwal2004/Constructi
 ## Project Structure
 
 ```
-construction-company/
+construction-company-website/
+│
 ├── index.html                 # Main homepage
-├── indexes/
-│   ├── projects.html         # Projects gallery page
-│   └── service.html          # Services page
-├── styles/
-│   ├── home.css             # Homepage styles
-│   ├── projects.css         # Projects page styles
-│   └── service.css          # Services page styles
-├── scripts/
-│   ├── home.js              # Homepage functionality
-│   ├── projects.js          # Projects page functionality
-│   └── service.js           # Services page functionality
-├── data/
-│   ├── project_detail.json  # Complete project information
-│   ├── projects_comm.json   # Commercial projects data
-│   └── projects_res.json    # Residential projects data
-└── README.md                # Project documentation
+├── README.md                  # Project documentation
+├── LICENSE                    # License file
+│
+├── assets/                    # Static assets
+│   ├── css/                   # Stylesheets
+│   │   ├── style.css          # Main stylesheet
+│   │   ├── responsive.css     # Mobile responsive styles
+│   │   └── animations.css     # Animation styles
+│   │
+│   ├── js/                    # JavaScript files
+│   │   ├── main.js            # Main JavaScript functionality
+│   │   ├── portfolio.js       # Portfolio gallery functionality
+│   │   ├── contact.js         # Contact form handling
+│   │   └── animations.js      # Animation scripts
+│   │
+│   ├── images/                # Image assets
+│   │   ├── logo/              # Company logos
+│   │   ├── portfolio/         # Project images
+│   │   ├── team/              # Team member photos
+│   │   ├── services/          # Service-related images
+│   │   └── backgrounds/       # Background images
+│   │
+│   └── fonts/                 # Custom fonts
+│       └── [font-files]
+│
+├── pages/                     # Additional pages
+│   ├── about.html             # About us page
+│   ├── services.html          # Services overview
+│   ├── portfolio.html         # Portfolio/projects page
+│   ├── team.html              # Team members page
+│   ├── contact.html           # Contact information
+│   └── quote.html             # Quote request page
+│
+├── components/                # Reusable components
+│   ├── header.html            # Navigation header
+│   ├── footer.html            # Website footer
+│   └── sidebar.html           # Sidebar component
+│
+└── docs/                      # Documentation
+    ├── setup.md               # Setup instructions
+    ├── customization.md       # Customization guide
+    └── deployment.md          # Deployment guide
 ```
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
