@@ -68,7 +68,7 @@
 <details open>
   <summary><h2>📚 Table of Contents</h2></summary
 
-├── 📘 About the Project  
+├── 📘 About the Project 
 │   └── 🔧 Built With  
 ├── 🚀 Getting Started  
 │   ├── 📦 Prerequisites  
@@ -173,13 +173,21 @@ Or visit the live version:
 <!-- 🚀 USAGE EXAMPLES -->
 ---
 
-## 🚀 How to Use This Website
+### 🚀 How to Use This Website
 
 This construction company website is designed with **ease of navigation**, **visual appeal**, and **user experience** in mind. Here’s a walkthrough of each core section:
+## Pages and File
 
+| Page | File |
+|------|------|
+| **Home** | `index.html` |
+| **About** | `pages/about.html` |
+| **Services** | `pages/services.html` |
+| **Portfolio** | `pages/portfolio.html` |
+| **Contact** | `pages/contact.html` |
 ---
 
-### 🏠 Home Page
+## 🏠 Home Page
 🎯 **First Impressions Matter!**  
 - Bold hero section with company branding  
 - Catchy headings and high-impact visuals  
@@ -187,14 +195,14 @@ This construction company website is designed with **ease of navigation**, **vis
 
 ---
 
-### 🧱 About Section
+## 🧱 About Section
 👷‍♀️ **Who We Are**  
 - Learn about the company’s mission, experience, and achievements  
 - Professionally crafted layout to build trust and credibility
 
 ---
 
-### 🛠️ Services Page
+## 🛠️ Services Page
 🧰 **What We Do**  
 - Cleanly listed construction-related services  
 - Each service block is styled for clarity and quick scanning  
@@ -202,7 +210,7 @@ This construction company website is designed with **ease of navigation**, **vis
 
 ---
 
-### 🖼️ Projects Gallery
+## 🖼️ Projects Gallery
 🏗️ **Our Work Speaks**  
 - Showcases completed residential & commercial projects  
 - Interactive gallery with filtering options  
@@ -210,7 +218,7 @@ This construction company website is designed with **ease of navigation**, **vis
 
 ---
 
-### 📬 Contact Form
+## 📬 Contact Form
 📩 **Let’s Build Something Together**  
 - Simple, elegant form with real-time input validation  
 - Easy for clients to inquire directly from the site  
