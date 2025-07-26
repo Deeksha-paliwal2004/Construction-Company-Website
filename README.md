@@ -391,11 +391,11 @@ Contributions are what make the open-source community such an amazing place to l
 
 | Name | GitHub Profile | Role |
 |------|----------------|------|
-| Deeksha Paliwal | [@Deeksha-paliwal2004](https://github.com/Deeksha-paliwal2004) | Project Lead |
-| Ariya Sri | [@ariya10](https://github.com/ariya10) | Frontend Developer |
-| Gunapu Sahithi | [@sahithi3005](https://github.com/sahithi3005) | UI/UX Designer |
-| Mahesh More | [@Mahesh-more1](https://github.com/Mahesh-more1) | Developer |
-| Sanskruti Kumbhare | [@Sanskruti100](https://github.com/Sanskruti100) | Content Specialist |
+| Deeksha Paliwal | [@Deeksha-paliwal2004](https://github.com/Deeksha-paliwal2004) | Project Lead - Frontend - Deployment|
+| Ariya Sri | [@ariya10](https://github.com/ariya10) | Content Specialist - Documentation |
+| Gunapu Sahithi | [@sahithi3005](https://github.com/sahithi3005) | Frontend Developer|
+| Mahesh More | [@Mahesh-more1](https://github.com/Mahesh-more1) | QA Tester |
+| Sanskruti Kumbhare | [@Sanskruti100](https://github.com/Sanskruti100) | Frontend Developer |
 | Uddanti Bhavana | [@UddantiBhavana](https://github.com/UddantiBhavana) | QA Tester |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
