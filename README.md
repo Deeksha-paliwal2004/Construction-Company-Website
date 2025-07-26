@@ -419,8 +419,7 @@ The MIT License is a permissive license that allows for reuse within proprietary
 ### Project Team
 
 - 💻 **GitHub Repository**: [Construction-Company-Website](https://github.com/Deeksha-paliwal2004/Construction-Company-Website)
-- 🌐 **Live Demo**: [https://deeksha-paliwal2004.github.io/Construction-Company-Website](https://deeksha-paliwal2004.github.io/Construction-Company-Website)
-- 📧 **Project Email**: construction.team@example.com
+- 🌐 **Live Demo**: [https://deeksha-paliwal2004.github.io/Construction-Company-Website](https://deeksha-paliwal2004.github.io/Construction-Company-Website)<!--📧 **Project Email**: construction.team@example.com-->
 - 🐛 **Report Issues**: [GitHub Issues](https://github.com/Deeksha-paliwal2004/Construction-Company-Website/issues)
 
 ### Lead Developer
