@@ -214,55 +214,55 @@ This construction company website is designed with ease of navigation, visual ap
 
 ```
 Construction-Company-Website/
-│
-├── index.html                 # Main homepage
-├── README.md                  # Project documentation
-├── LICENSE                    # MIT License file
-│
-├── assets/                    # Static assets
-│   ├── css/                   # Stylesheets
-│   │   ├── style.css          # Main stylesheet
-│   │   ├── responsive.css     # Mobile responsive styles
-│   │   ├── animations.css     # Animation styles
-│   │   └── bootstrap.min.css  # Bootstrap framework
-│   │
-│   ├── js/                    # JavaScript files
-│   │   ├── main.js            # Main JavaScript functionality
-│   │   ├── portfolio.js       # Portfolio gallery functionality
-│   │   ├── contact.js         # Contact form handling
-│   │   ├── animations.js      # Animation scripts
-│   │   └── bootstrap.min.js   # Bootstrap JavaScript
-│   │
-│   ├── images/                # Image assets
-│   │   ├── logo/              # Company logos
-│   │   │   ├── logo.png       # Main logo
-│   │   │   └── logo-rounded.png # Rounded logo variant
-│   │   ├── portfolio/         # Project images
-│   │   │   ├── residential/   # Residential projects
-│   │   │   └── commercial/    # Commercial projects
-│   │   ├── team/              # Team member photos
-│   │   ├── services/          # Service-related images
-│   │   ├── backgrounds/       # Background images
-│   │   └── screenshots/       # Website screenshots
-│   │
-│   └── fonts/                 # Custom fonts (if any)
-│
-├── pages/                     # Additional pages
-│   ├── about.html             # About us page
-│   ├── services.html          # Services overview
-│   ├── portfolio.html         # Portfolio/projects page
-│   ├── contact.html           # Contact information
-│   └── quote.html             # Quote request page
-│
-├── components/                # Reusable components (if applicable)
-│   ├── header.html            # Navigation header
-│   ├── footer.html            # Website footer
-│   └── sidebar.html           # Sidebar component
-│
-└── docs/                      # Documentation (optional)
-    ├── CONTRIBUTING.md        # Contributing guidelines
-    ├── CODE_OF_CONDUCT.md     # Code of conduct
-    └── DEPLOYMENT.md          # Deployment instructions
+├── index.html                                                    # Main homepage
+├── README.md                                                     # Project documentation  
+├── LICENSE.txt                                                   # MIT License
+├── project_detail.json                                           # Project portfolio data
+├── construction company project internpro.code-workspace         # VS Code workspace
+├── .vscode/
+│   └── settings.json                                             # VS Code settings (port 5501)
+├── styles/                                                       # CSS stylesheets
+│   ├── home.css                                                  # Homepage styles
+│   ├── service.css                                               # Services page styles
+│   ├── projects.css                                              # Projects page styles
+│   ├── project_info.css                                          # Project detail styles
+│   ├── commercial.css                                            # Commercial service styles
+│   ├── residential.css                                           # Residential service styles
+│   ├── renovation.css                                            # Renovation service styles
+│   ├── interior.css                                              # Interior service styles
+│   └── roadconstruction.css                                      # Road construction styles
+├── scripts/                                                      # JavaScript files
+│   ├── home.js                                                   # Homepage functionality
+│   ├── service.js                                                # Services functionality
+│   ├── projects.js                                               # Projects functionality
+│   ├── project_info.js                                           # Project details functionality
+│   ├── commercial.js                                             # Commercial service scripts
+│   ├── residential.js                                            # Residential service scripts
+│   ├── renovation.js                                             # Renovation service scripts
+│   ├── interior.js                                               # Interior service scripts
+│   └── roadconstruction.js                                       # Road construction scripts
+├── indexes/                                                      # Additional HTML pages
+│   ├── service.html                                              # Services overview page
+│   ├── projects.html                                             # Projects listing page
+│   ├── project_info.html                                         # Individual project detail page
+│   ├── commercial.html                                           # Commercial services detail
+│   ├── residential.html                                          # Residential services detail
+│   ├── renovation.html                                           # Renovation services detail
+│   ├── interior.html                                             # Interior design services detail
+│   └── roadconstruction.html                                     # Road construction services detail
+└── images/                                                       # All image assets
+    ├── logo-rounded.png                                          # Company logo
+    ├── quotes.jpg                                                # Quote section image
+    ├── building.jpg                                              # Commercial building image
+    ├── house.jpg                                                 # Residential house image
+    ├── reno1.jpg,reno2.jpg,reno3.jpg,reno4.jpg                   # Renovation images
+    ├── interior1.jpg,interior2.jpg,interior3.jpg,interior4.jpg   # Interior images
+    ├── roadS.jpg,road1.jpg,road2.jpg,road3.jpg                   # Road construction images
+    ├── office.jpg,mall.jpg,warehouse.jpg                         # Commercial project images
+    ├── livingroom.jpg,bedroom.jpg,kitchen.jpg                    # Residential room images
+    ├── residential.jpg,commercialS.jpg                           # Service category images
+    ├── renovation.jpg,interiorS.jpg                              # Service type images
+    └── [15 portfolio project images...]                          # Portfolio gallery images
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
