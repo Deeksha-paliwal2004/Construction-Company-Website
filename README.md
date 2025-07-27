@@ -222,25 +222,9 @@ Construction-Company-Website/
 ├── .vscode/
 │   └── settings.json                                             # VS Code settings (port 5501)
 ├── styles/                                                       # CSS stylesheets
-│   ├── home.css                                                  # Homepage styles
-│   ├── service.css                                               # Services page styles
-│   ├── projects.css                                              # Projects page styles
-│   ├── project_info.css                                          # Project detail styles
-│   ├── commercial.css                                            # Commercial service styles
-│   ├── residential.css                                           # Residential service styles
-│   ├── renovation.css                                            # Renovation service styles
-│   ├── interior.css                                              # Interior service styles
-│   └── roadconstruction.css                                      # Road construction styles
+│   └── [contains different pages - css files...]                
 ├── scripts/                                                      # JavaScript files
-│   ├── home.js                                                   # Homepage functionality
-│   ├── service.js                                                # Services functionality
-│   ├── projects.js                                               # Projects functionality
-│   ├── project_info.js                                           # Project details functionality
-│   ├── commercial.js                                             # Commercial service scripts
-│   ├── residential.js                                            # Residential service scripts
-│   ├── renovation.js                                             # Renovation service scripts
-│   ├── interior.js                                               # Interior service scripts
-│   └── roadconstruction.js                                       # Road construction scripts
+│   └── [contains different pages - JavaScript files...]
 ├── indexes/                                                      # Additional HTML pages
 │   ├── service.html                                              # Services overview page
 │   ├── projects.html                                             # Projects listing page
@@ -249,20 +233,9 @@ Construction-Company-Website/
 │   ├── residential.html                                          # Residential services detail
 │   ├── renovation.html                                           # Renovation services detail
 │   ├── interior.html                                             # Interior design services detail
-│   └── roadconstruction.html                                     # Road construction services detail
+│   └── roadconstruction.html                                     # Road construction services detail    
 └── images/                                                       # contains logo, services and projects images 
-    ├── logo-rounded.png                                          # Company logo
-    ├── quotes.jpg                                                # Quote section image
-    ├── building.jpg                                              # Commercial building image
-    ├── house.jpg                                                 # Residential house image
-    ├── reno1.jpg,reno2.jpg,reno3.jpg,reno4.jpg                   # Renovation images
-    ├── interior1.jpg,interior2.jpg,interior3.jpg,interior4.jpg   # Interior images
-    ├── roadS.jpg,road1.jpg,road2.jpg,road3.jpg                   # Road construction images
-    ├── office.jpg,mall.jpg,warehouse.jpg                         # Commercial project images
-    ├── livingroom.jpg,bedroom.jpg,kitchen.jpg                    # Residential room images
-    ├── residential.jpg,commercialS.jpg                           # Service category images
-    ├── renovation.jpg,interiorS.jpg                              # Service type images
-    └── [15 portfolio project images...]                          # Portfolio gallery images
+    └── [contains project images...]                              
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
