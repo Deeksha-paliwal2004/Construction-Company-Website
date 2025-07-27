@@ -62,7 +62,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#project-structure">Project Structure</a></li>
-    <li><a href="#pages">Pages</a></li>
+    <li><a href="#pages">Pages</a></li>  <!--<li><a href="#Navigation-Flow">Navigation Flow</a></li>--->
     <li><a href="#deployment">Deployment</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -221,7 +221,7 @@ Construction-Company-Website/
 ├── construction company project internpro.code-workspace         # VS Code workspace
 ├── .vscode/
 │   └── settings.json                                             # VS Code settings (port 5501)
-├── styles/                                                       # CSS stylesheets
+├── styles/                                                       
 │   ├── home.css                                                  # Homepage styles
 │   ├── service.css                                               # Services page styles
 │   ├── projects.css                                              # Projects page styles
@@ -231,7 +231,7 @@ Construction-Company-Website/
 │   ├── renovation.css                                            # Renovation service styles
 │   ├── interior.css                                              # Interior service styles
 │   └── roadconstruction.css                                      # Road construction styles
-├── scripts/                                                      # JavaScript files
+├── scripts/                                                      
 │   ├── home.js                                                   # Homepage functionality
 │   ├── service.js                                                # Services functionality
 │   ├── projects.js                                               # Projects functionality
@@ -241,7 +241,7 @@ Construction-Company-Website/
 │   ├── renovation.js                                             # Renovation service scripts
 │   ├── interior.js                                               # Interior service scripts
 │   └── roadconstruction.js                                       # Road construction scripts
-├── indexes/                                                      # Additional HTML pages
+├── indexes/                                                      
 │   ├── service.html                                              # Services overview page
 │   ├── projects.html                                             # Projects listing page
 │   ├── project_info.html                                         # Individual project detail page
@@ -250,7 +250,7 @@ Construction-Company-Website/
 │   ├── renovation.html                                           # Renovation services detail
 │   ├── interior.html                                             # Interior design services detail
 │   └── roadconstruction.html                                     # Road construction services detail
-└── images/                                                       # All image assets
+└── images/                                                       
     ├── logo-rounded.png                                          # Company logo
     ├── quotes.jpg                                                # Quote section image
     ├── building.jpg                                              # Commercial building image
@@ -274,11 +274,98 @@ Construction-Company-Website/
 | Page | File |
 |------|------|
 | **Home** | `index.html` |
-| **About** | `pages/about.html` |
-| **Services** | `pages/services.html` |
-| **Portfolio** | `pages/portfolio.html` |
-| **Contact** | `pages/contact.html` |
-| **Quote** | `pages/quote.html` |
+| **About** | `index.html#about` |
+| **Services** | `indexes/service.html` |
+| **Portfolio/Projects** | `indexes/projects.html` |
+| **Project Details** | `indexes/project_info.html` |
+| **Contact** | `index.html#contact` |
+| **Commercial Services** | `indexes/commercial.html` |
+| **Residential Services** | `indexes/residential.html` |
+| **Renovation Services** | `indexes/renovation.html` |
+| **Interior Design** | `indexes/interior.html` |
+| **Road Construction** | `indexes/roadconstruction.html` |
+
+### Page Structure Explanation:
+
+- **Single Page App Elements**: About and Contact are sections within `index.html`
+- **Main Service Page**: `indexes/service.html` - Overview of all services
+- **Individual Service Pages**: Each service type has its own detailed page
+- **Projects System**: 
+ - `indexes/projects.html` - Lists all projects by category
+ - `indexes/project_info.html` - Dynamic page showing individual project details
+- **No separate Quote page**: Quote functionality is integrated into the contact form
+
+### Navigation Flow:
+
+```
+┌────────────────────────────────────┐  
+│           index.html                │  
+│    (Home/About/Contact)             │  
+│                                     │  
+│  Sections:                          │  
+│  • Hero Section (#home)             │  
+│  • About Section (#about)           │  
+│  • Contact Form (#contact)          │  
+└────────────────────────────────────┘  
+                 ⇩
+                 ⇩
+                 ⇩           
+┌────────────────────────────────────┐  
+│       indexes/service.html          │  
+│      (Services Overview)            │  
+│                                     │  
+│  Features:                          │  
+│  • Service Cards Grid               │  
+│  • "Learn More" buttons             │  
+│  • Service Categories               │  
+└────────────────────────────────────┘  
+                 ⇩
+                 ⇩
+                 ⇩  
+┌────────────────────────────────────┐  
+│    Individual Service Pages         │  
+│   indexes/[service-type].html       │  
+│                                     │  
+│  Available Services:                │  
+│  ├── commercial.html                │  
+│  ├── residential.html               │  
+│  ├── renovation.html                │  
+│  ├── interior.html                  │  
+│  └── roadconstruction.html          │  
+│                                     │  
+│  Each contains:                     │  
+│  • Service description              │  
+│  • Image gallery                    │  
+│  • Back to Services link            │  
+└────────────────────────────────────┘  
+                 ⇩
+                 ⇩
+                 ⇩
+┌────────────────────────────────────┐  
+│      indexes/projects.html          │  
+│       (Projects Gallery)            │  
+│                                     │  
+│  Features:                          │  
+│  • Commercial Projects Grid         │  
+│  • Residential Projects Grid        │  
+│  • Dynamic loading from JSON        │  
+│  • Click to view details            │  
+└────────────────────────────────────┘  
+                 ⇩
+                 ⇩
+                 ⇩
+┌─────────────────────────────────────┐  
+│    indexes/project_info.html        │  
+│      (Project Details)              │  
+│                                     │  
+│  Dynamic Content:                   │  
+│  • Project title                    │  
+│  • Full description                 │  
+│  • Location & status                │  
+│  • Background image                 │  
+│  • Back to Projects link            │  
+└─────────────────────────────────────┘
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
