@@ -221,7 +221,7 @@ Construction-Company-Website/
 ├── construction company project internpro.code-workspace         # VS Code workspace
 ├── .vscode/
 │   └── settings.json                                             # VS Code settings (port 5501)
-├── styles/                                                       
+├── styles/                                                       # CSS stylesheets
 │   ├── home.css                                                  # Homepage styles
 │   ├── service.css                                               # Services page styles
 │   ├── projects.css                                              # Projects page styles
@@ -231,7 +231,7 @@ Construction-Company-Website/
 │   ├── renovation.css                                            # Renovation service styles
 │   ├── interior.css                                              # Interior service styles
 │   └── roadconstruction.css                                      # Road construction styles
-├── scripts/                                                      
+├── scripts/                                                      # JavaScript files
 │   ├── home.js                                                   # Homepage functionality
 │   ├── service.js                                                # Services functionality
 │   ├── projects.js                                               # Projects functionality
@@ -241,7 +241,7 @@ Construction-Company-Website/
 │   ├── renovation.js                                             # Renovation service scripts
 │   ├── interior.js                                               # Interior service scripts
 │   └── roadconstruction.js                                       # Road construction scripts
-├── indexes/                                                      
+├── indexes/                                                      # Additional HTML pages
 │   ├── service.html                                              # Services overview page
 │   ├── projects.html                                             # Projects listing page
 │   ├── project_info.html                                         # Individual project detail page
@@ -250,7 +250,7 @@ Construction-Company-Website/
 │   ├── renovation.html                                           # Renovation services detail
 │   ├── interior.html                                             # Interior design services detail
 │   └── roadconstruction.html                                     # Road construction services detail
-└── images/                                                       
+└── images/                                                       # contains logo, services and projects images 
     ├── logo-rounded.png                                          # Company logo
     ├── quotes.jpg                                                # Quote section image
     ├── building.jpg                                              # Commercial building image
