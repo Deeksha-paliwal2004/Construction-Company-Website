@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Website Preview][product-screenshot]](https://deeksha-paliwal2004.github.io/Construction-Company-Website)
+[![Website Preview](images/website-preview.png)](https://deeksha-paliwal2004.github.io/Construction-Company-Website)
 
 **BuildRight Construction Company Website** is a modern, responsive web platform created to professionally represent a construction business. It targets potential clients, investors, and stakeholders seeking reliable and quality construction services.
 
