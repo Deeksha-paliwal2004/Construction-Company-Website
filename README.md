@@ -529,7 +529,6 @@ We extend our gratitude to the following resources and communities that made thi
 ### Development Resources
 * [MDN Web Docs](https://developer.mozilla.org/) - For comprehensive web development documentation
 * [W3Schools](https://www.w3schools.com/) - For HTML, CSS, and JavaScript tutorials
-* [Bootstrap Documentation](https://getbootstrap.com/docs/) - For responsive framework guidance
 * [CSS-Tricks](https://css-tricks.com/) - For advanced CSS techniques and best practices
 
 ### Design Inspiration
@@ -578,8 +577,8 @@ We extend our gratitude to the following resources and communities that made thi
 [CSS3-url]: https://www.w3.org/Style/CSS/
 [JavaScript.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+<!--[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com--->
 
 ---
 
